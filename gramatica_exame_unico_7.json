@@ -1,0 +1,415 @@
+[
+  {
+    "id": 0,
+    "pergunta": "Qual é a figura de estilo na frase: 'O mar estava zangado'?",
+    "opcoes": ["Metáfora", "Personificação", "Hipérbole", "Comparação"],
+    "resposta": "Personificação",
+    "explicacao": "Atribui-se uma característica humana ('zangado') ao mar – personificação.",
+    "ajuda": "👉 Metáfora: comparação implícita entre dois termos. Ex: 'Ele é um leão.'\n👉 Personificação: qualidades humanas a seres não humanos. Ex: 'O mar estava zangado.'\n👉 Hipérbole: exagero expressivo. Ex: 'Chorei rios de lágrimas.'\n👉 Comparação: comparação explícita com 'como'. Ex: 'Ela é doce como mel.'"
+  },
+  {
+    "id": 1,
+    "pergunta": "Qual é a função sintática de 'ao professor' na frase: 'Entreguei o trabalho ao professor'?",
+    "opcoes": ["Complemento direto", "Complemento indireto", "Modificador", "Sujeito"],
+    "resposta": "Complemento indireto",
+    "explicacao": "'Ao professor' indica o destinatário da ação – complemento indireto.",
+    "ajuda": "👉 Complemento direto: recebe diretamente a ação. Ex: 'Li o livro.'\n👉 Complemento indireto: introduzido por preposição e indica destinatário. Ex: 'ao professor'.\n👉 Modificador: informação adicional não essencial. Ex: 'de manhã'.\n👉 Sujeito: quem pratica a ação. Ex: 'O aluno respondeu.'"
+  },
+  {
+    "id": 2,
+    "pergunta": "Qual é a classe da palavra 'rapidamente' na frase: 'Ele saiu rapidamente'?",
+    "opcoes": ["Substantivo", "Adjetivo", "Advérbio", "Conjunção"],
+    "resposta": "Advérbio",
+    "explicacao": "'Rapidamente' indica o modo da ação – advérbio de modo.",
+    "ajuda": "👉 Substantivo: nomeia seres, coisas, ideias. Ex: 'livro'.\n👉 Adjetivo: qualifica o nome. Ex: 'carro rápido'.\n👉 Advérbio: modifica o verbo. Ex: 'correu rapidamente'.\n👉 Conjunção: liga orações ou palavras. Ex: 'mas', 'porque'."
+  },
+  {
+    "id": 3,
+    "pergunta": "Qual é a figura de estilo em: 'Ela é como uma rosa'?",
+    "opcoes": ["Metáfora", "Comparação", "Personificação", "Hipérbole"],
+    "resposta": "Comparação",
+    "explicacao": "A frase usa 'como' para comparar – trata-se de uma comparação.",
+    "ajuda": "👉 Metáfora: comparação implícita. Ex: 'Ela é uma rosa.'\n👉 Comparação: ligação explícita com 'como'. Ex: 'Ela é como uma rosa.'\n👉 Personificação: qualidades humanas a objetos.\n👉 Hipérbole: exagero. Ex: 'Esperei séculos.'"
+  },
+  {
+    "id": 4,
+    "pergunta": "Classifica a oração: 'Porque estava cansado, deitou-se cedo.'",
+    "opcoes": ["Temporal", "Causal", "Final", "Concessiva"],
+    "resposta": "Causal",
+    "explicacao": "A oração 'porque estava cansado' apresenta a causa da ação.",
+    "ajuda": "👉 Temporal: indica tempo. Ex: 'Quando cheguei...'\n👉 Causal: indica causa. Ex: 'Porque chovia...'\n👉 Final: indica finalidade. Ex: 'para descansar'\n👉 Concessiva: oposição. Ex: 'Apesar de estar cansado...'"
+  },
+  {
+    "id": 5,
+    "pergunta": "Que tipo de sujeito existe na frase: 'Fala-se muito daquele caso'?",
+    "opcoes": ["Sujeito simples", "Sujeito composto", "Sujeito indeterminado", "Oração sem sujeito"],
+    "resposta": "Sujeito indeterminado",
+    "explicacao": "Verbo na 3.ª pessoa com 'se' – sujeito indeterminado.",
+    "ajuda": "👉 Sujeito simples: um só núcleo. Ex: 'O aluno chegou.'\n👉 Sujeito composto: dois ou mais núcleos. Ex: 'O João e a Maria chegaram.'\n👉 Sujeito indeterminado: verbo com 'se' ou 3.ª pessoa sem agente. Ex: 'Fala-se...'\n👉 Oração sem sujeito: verbos impessoais. Ex: 'Chove muito.'"
+  },
+  {
+    "id": 6,
+    "pergunta": "Qual é a figura de estilo: 'Tenho um milhão de coisas para fazer'?",
+    "opcoes": ["Metáfora", "Hipérbole", "Ironia", "Comparação"],
+    "resposta": "Hipérbole",
+    "explicacao": "Exagero intencional – é uma hipérbole.",
+    "ajuda": "👉 Metáfora: substituição simbólica. Ex: 'coração de pedra'.\n👉 Hipérbole: exagero. Ex: 'milhão de coisas'.\n👉 Ironia: diz o contrário do que se quer dizer.\n👉 Comparação: ligação com 'como'."
+  },
+  {
+    "id": 7,
+    "pergunta": "Identifica o tempo verbal em 'Se eu tivesse dinheiro, viajava.'",
+    "opcoes": ["Pretérito perfeito", "Pretérito mais-que-perfeito", "Pretérito imperfeito do conjuntivo", "Presente do indicativo"],
+    "resposta": "Pretérito imperfeito do conjuntivo",
+    "explicacao": "'Tivesse' é forma do conjuntivo – expressa hipótese.",
+    "ajuda": "👉 Pret. perfeito: ação concluída. Ex: 'comi'.\n👉 Mais-que-perfeito: ação anterior a outra. Ex: 'comera'.\n👉 Conjuntivo imperfeito: hipótese. Ex: 'se tivesse'.\n👉 Presente: ação habitual. Ex: 'como todos os dias'."
+  },
+  {
+    "id": 8,
+    "pergunta": "Qual destas palavras é um advérbio de tempo?",
+    "opcoes": ["Sempre", "Lentamente", "Muito", "Ali"],
+    "resposta": "Sempre",
+    "explicacao": "'Sempre' indica uma noção temporal – advérbio de tempo.",
+    "ajuda": "👉 Sempre: tempo. Ex: 'vem sempre'.\n👉 Lentamente: modo.\n👉 Muito: intensidade.\n👉 Ali: lugar."
+  },
+  {
+    "id": 9,
+    "pergunta": "Que função sintática exerce 'as notícias' em: 'Vi as notícias na televisão'?",
+    "opcoes": ["Sujeito", "Complemento direto", "Complemento oblíquo", "Modificador do GV"],
+    "resposta": "Complemento direto",
+    "explicacao": "'As notícias' é o objeto sobre o qual recai a ação de 'ver'.",
+    "ajuda": "👉 Sujeito: faz a ação. Ex: 'O aluno chegou.'\n👉 Comp. direto: recebe diretamente a ação. Ex: 'Vi as notícias.'\n👉 Comp. oblíquo: exige preposição. Ex: 'Gosto de música.'\n👉 Mod. do GV: informação adicional. Ex: 'de manhã'."
+  },
+  {
+    "id": 10,
+    "pergunta": "Qual é a classe de palavra da expressão 'muito rápido' na frase: 'Ele correu muito rápido'?",
+    "opcoes": ["Adjetivo e advérbio", "Advérbio e adjetivo", "Advérbio e advérbio", "Adjetivo e adjetivo"],
+    "resposta": "Advérbio e advérbio",
+    "explicacao": "'Muito' intensifica 'rápido', que aqui funciona como advérbio de modo. Ambos são advérbios.",
+    "ajuda": "👉 Adjetivo: qualifica um nome. Ex: 'menino alegre'\n👉 Advérbio: modifica verbo, adjetivo ou outro advérbio. Ex: 'caminhou lentamente', 'muito devagar'\n👉 'Muito' pode ser advérbio de intensidade\n👉 'Rápido', ao modificar o verbo, também funciona como advérbio"
+  },
+  {
+    "id": 11,
+    "pergunta": "Na frase: 'Quando cheguei, todos já tinham saído', que tipo de oração é 'Quando cheguei'?",
+    "opcoes": ["Oração subordinada adjetiva", "Oração subordinada causal", "Oração subordinada temporal", "Oração coordenada copulativa"],
+    "resposta": "Oração subordinada temporal",
+    "explicacao": "A oração 'Quando cheguei' indica o momento em que algo aconteceu – é uma oração subordinada temporal.",
+    "ajuda": "👉 Temporal: indica tempo. Ex: 'Enquanto esperava...'\n👉 Causal: indica causa. Ex: 'Porque estava cansado...'\n👉 Adjetiva: caracteriza um nome. Ex: 'O livro que li'\n👉 Coordenada copulativa: liga ideias com adição. Ex: 'Fui ao mercado e comprei pão.'"
+  },
+  {
+    "id": 12,
+    "pergunta": "Qual a função sintática do termo 'ao professor' na frase: 'Entreguei o trabalho ao professor'?",
+    "opcoes": ["Complemento direto", "Complemento indireto", "Adjunto adverbial", "Sujeito"],
+    "resposta": "Complemento indireto",
+    "explicacao": "'Ao professor' indica o destinatário da ação – complemento indireto, pois está introduzido pela preposição 'a'.",
+    "ajuda": "👉 Complemento direto: objeto direto da ação. Ex: 'Comi a maçã.'\n👉 Complemento indireto: objeto introduzido por preposição. Ex: 'Escrevi ao amigo.'\n👉 Adjunto adverbial: indica circunstância. Ex: 'De manhã.'\n👉 Sujeito: agente da ação. Ex: 'O menino correu.'"
+  },
+  {
+    "id": 13,
+    "pergunta": "Qual a figura de estilo na frase: 'Ela chorou rios de lágrimas'?",
+    "opcoes": ["Metáfora", "Personificação", "Hipérbole", "Comparação"],
+    "resposta": "Hipérbole",
+    "explicacao": "Hipérbole é o exagero expressivo, aqui usado para enfatizar a quantidade de lágrimas.",
+    "ajuda": "👉 Metáfora: comparação implícita. Ex: 'Ele é uma fera.'\n👉 Personificação: dar características humanas. Ex: 'O vento cantava.'\n👉 Hipérbole: exagero. Ex: 'Estou morrendo de sede.'\n👉 Comparação: comparação explícita com 'como'. Ex: 'Ela é forte como um touro.'"
+  },
+  {
+    "id": 14,
+    "pergunta": "Qual é a função sintática de 'aquela casa' na frase: 'Aquela casa é antiga'?",
+    "opcoes": ["Sujeito", "Complemento direto", "Adjunto adnominal", "Predicativo do sujeito"],
+    "resposta": "Sujeito",
+    "explicacao": "'Aquela casa' é o sujeito da oração, é quem pratica a ação de ser antiga.",
+    "ajuda": "👉 Sujeito: quem pratica/verifica a ação. Ex: 'O carro parou.'\n👉 Complemento direto: recebe a ação. Ex: 'Comprei um livro.'\n👉 Adjunto adnominal: caracteriza um nome. Ex: 'casa bonita'\n👉 Predicativo do sujeito: qualidade atribuída ao sujeito. Ex: 'O carro está velho.'"
+  },
+  {
+    "id": 15,
+    "pergunta": "Qual a função do termo 'rápido' na frase: 'Ele corre rápido'?",
+    "opcoes": ["Adjetivo", "Advérbio de modo", "Complemento direto", "Sujeito"],
+    "resposta": "Advérbio de modo",
+    "explicacao": "'Rápido' modifica o verbo 'corre', indicando como a ação é feita — portanto, é um advérbio de modo.",
+    "ajuda": "👉 Advérbio de modo: indica a maneira da ação. Ex: 'fala baixinho'\n👉 Adjetivo: qualifica nome. Ex: 'menino inteligente'\n👉 Complemento direto: objeto da ação. Ex: 'li o livro'\n👉 Sujeito: quem pratica a ação. Ex: 'A menina canta.'"
+  },
+  {
+    "id": 16,
+    "pergunta": "Na frase 'Fui ao mercado e comprei pão', que tipo de oração é 'comprei pão'?",
+    "opcoes": ["Oração subordinada", "Oração coordenada adversativa", "Oração coordenada copulativa", "Oração coordenada conclusiva"],
+    "resposta": "Oração coordenada copulativa",
+    "explicacao": "As orações são unidas pela conjunção 'e', que indica adição, portanto, são orações coordenadas copulativas.",
+    "ajuda": "👉 Coordenada copulativa: liga ideias com adição. Ex: 'Estudei e passei.'\n👉 Coordenada adversativa: oposição. Ex: 'Queria sair, mas fiquei.'\n👉 Coordenada conclusiva: conclusão. Ex: 'Está cansado, logo vai dormir.'\n👉 Subordinada: depende da oração principal."
+  },
+  {
+    "id": 17,
+    "pergunta": "Qual é a função sintática de 'dos livros' na frase: 'A capa dos livros está rasgada'?",
+    "opcoes": ["Adjunto adnominal", "Complemento direto", "Complemento indireto", "Predicativo do sujeito"],
+    "resposta": "Adjunto adnominal",
+    "explicacao": "'Dos livros' caracteriza 'capa', funcionando como adjunto adnominal.",
+    "ajuda": "👉 Adjunto adnominal: modifica nome. Ex: 'roupa azul'\n👉 Complemento direto: objeto da ação. Ex: 'comi a maçã'\n👉 Complemento indireto: introduzido por preposição\n👉 Predicativo do sujeito: atribui qualidade ao sujeito"
+  },
+  {
+    "id": 18,
+    "pergunta": "Qual o sujeito da frase: 'Choveu muito ontem à noite'?",
+    "opcoes": ["Sujeito simples", "Sujeito composto", "Sujeito oculto", "Oração sem sujeito"],
+    "resposta": "Oração sem sujeito",
+    "explicacao": "O verbo 'chover' é impessoal e não tem sujeito — esta é uma oração sem sujeito.",
+    "ajuda": "👉 Oração sem sujeito: verbos impessoais. Ex: 'Neva no inverno.'\n👉 Sujeito simples: um núcleo. Ex: 'O gato dorme.'\n👉 Sujeito composto: vários núcleos. Ex: 'Ana e Pedro chegaram.'\n👉 Sujeito oculto: implícito. Ex: 'Fui ao mercado.'"
+  },
+  {
+    "id": 19,
+    "pergunta": "Na frase: 'Ele falou alto, mas não foi ouvido', que tipo de oração é 'mas não foi ouvido'?",
+    "opcoes": ["Oração subordinada causal", "Oração coordenada adversativa", "Oração subordinada condicional", "Oração coordenada conclusiva"],
+    "resposta": "Oração coordenada adversativa",
+    "explicacao": "A conjunção 'mas' indica oposição, portanto a oração é coordenada adversativa.",
+    "ajuda": "👉 Coordenada adversativa: oposição. Ex: 'Queria sair, mas ficou.'\n👉 Coordenada copulativa: adição. Ex: 'Estudou e passou.'\n👉 Subordinada causal: causa. Ex: 'Porque estava doente, faltou.'\n👉 Coordenada conclusiva: conclusão."
+  },
+  {
+    "id": 20,
+    "pergunta": "Na frase: 'Os alunos estudam muito para o exame', qual é a função sintática de 'muito'?",
+    "opcoes": ["Adjunto adverbial de intensidade", "Adjunto adnominal", "Complemento direto", "Predicativo do sujeito"],
+    "resposta": "Adjunto adverbial de intensidade",
+    "explicacao": "'Muito' intensifica o verbo 'estudam', funcionando como adjunto adverbial de intensidade.",
+    "ajuda": "👉 Adjunto adverbial: modifica verbo, adjetivo ou advérbio. Ex: 'Corre rapidamente.'\n👉 Adjunto adnominal: modifica nome. Ex: 'Carro novo.'\n👉 Complemento direto: objeto da ação.\n👉 Predicativo do sujeito: qualidade atribuída ao sujeito."
+  },
+  {
+    "id": 21,
+    "pergunta": "Qual é a figura de estilo na frase: 'A lua sorriu para mim'?",
+    "opcoes": ["Metáfora", "Personificação", "Hipérbole", "Antítese"],
+    "resposta": "Personificação",
+    "explicacao": "Atribui-se à lua uma característica humana (sorrir), o que caracteriza a personificação.",
+    "ajuda": "👉 Metáfora: comparação implícita. Ex: 'Ele é um leão.'\n👉 Personificação: atribui características humanas a objetos ou animais. Ex: 'O vento dançava.'\n👉 Hipérbole: exagero. Ex: 'Estou morrendo de fome.'\n👉 Antítese: oposição de ideias. Ex: 'Dia e noite.'"
+  },
+  {
+    "id": 22,
+    "pergunta": "Qual é a função sintática de 'a carta' na frase: 'Escrevi a carta ontem'?",
+    "opcoes": ["Complemento direto", "Complemento indireto", "Adjunto adverbial", "Sujeito"],
+    "resposta": "Complemento direto",
+    "explicacao": "'A carta' recebe diretamente a ação do verbo 'escrevi', funcionando como complemento direto.",
+    "ajuda": "👉 Complemento direto: recebe a ação diretamente. Ex: 'Li o livro.'\n👉 Complemento indireto: introduzido por preposição.\n👉 Adjunto adverbial: indica circunstâncias.\n👉 Sujeito: agente da ação."
+  },
+  {
+    "id": 23,
+    "pergunta": "Qual é a classe de palavra de 'rápido' na frase: 'Ele é um rápido corredor'?",
+    "opcoes": ["Adjetivo", "Advérbio", "Substantivo", "Pronome"],
+    "resposta": "Adjetivo",
+    "explicacao": "'Rápido' qualifica o substantivo 'corredor', portanto é um adjetivo.",
+    "ajuda": "👉 Adjetivo: qualifica um nome. Ex: 'menina bonita'\n👉 Advérbio: modifica verbo, adjetivo ou advérbio.\n👉 Substantivo: nomeia seres ou coisas.\n👉 Pronome: substitui o nome."
+  },
+  {
+    "id": 24,
+    "pergunta": "Na frase: 'Se chover, não sairei', que tipo de oração é 'Se chover'?",
+    "opcoes": ["Oração subordinada condicional", "Oração subordinada causal", "Oração coordenada adversativa", "Oração subordinada temporal"],
+    "resposta": "Oração subordinada condicional",
+    "explicacao": "'Se chover' expressa condição para a ação da oração principal, sendo uma oração subordinada condicional.",
+    "ajuda": "👉 Condicional: expressa condição. Ex: 'Se estudar, passará.'\n👉 Causal: expressa causa. Ex: 'Porque choveu, fiquei em casa.'\n👉 Adversativa: oposição.\n👉 Temporal: indica tempo."
+  },
+  {
+    "id": 25,
+    "pergunta": "Na frase: 'Gostava de viajar pelo mundo', qual é a função sintática de 'de viajar pelo mundo'?",
+    "opcoes": ["Complemento verbal", "Adjunto adverbial", "Sujeito", "Predicativo do sujeito"],
+    "resposta": "Complemento verbal",
+    "explicacao": "'De viajar pelo mundo' complementa o verbo 'gostava', funcionando como complemento verbal.",
+    "ajuda": "👉 Complemento verbal: completa sentido de verbos transitivos. Ex: 'Preciso de ajuda.'\n👉 Adjunto adverbial: indica circunstância.\n👉 Sujeito: agente da ação.\n👉 Predicativo do sujeito: qualidade atribuída ao sujeito."
+  },
+  {
+    "id": 26,
+    "pergunta": "Qual é a função sintática do termo 'para a festa' na frase: 'Ele saiu para a festa'?",
+    "opcoes": ["Adjunto adverbial de finalidade", "Adjunto adverbial de lugar", "Complemento direto", "Complemento indireto"],
+    "resposta": "Adjunto adverbial de finalidade",
+    "explicacao": "'Para a festa' indica finalidade da ação 'saiu', funcionando como adjunto adverbial de finalidade.",
+    "ajuda": "👉 Adjunto adverbial de finalidade: indica propósito. Ex: 'Estudo para passar.'\n👉 Adjunto adverbial de lugar: indica lugar. Ex: 'Vou ao parque.'\n👉 Complemento direto: objeto da ação.\n👉 Complemento indireto: objeto introduzido por preposição."
+  },
+  {
+    "id": 27,
+    "pergunta": "Qual é a função sintática de 'muito cansado' na frase: 'Ele estava muito cansado'?",
+    "opcoes": ["Predicativo do sujeito", "Adjunto adnominal", "Complemento direto", "Sujeito"],
+    "resposta": "Predicativo do sujeito",
+    "explicacao": "'Muito cansado' atribui uma característica ao sujeito 'Ele', funcionando como predicativo do sujeito.",
+    "ajuda": "👉 Predicativo do sujeito: qualidade do sujeito. Ex: 'Ela ficou feliz.'\n👉 Adjunto adnominal: modifica nome.\n👉 Complemento direto: objeto da ação.\n👉 Sujeito: quem pratica a ação."
+  },
+  {
+    "id": 28,
+    "pergunta": "Qual a classe de palavra de 'nós' na frase: 'Nós vamos ao cinema'?",
+    "opcoes": ["Pronome pessoal do caso reto", "Pronome possessivo", "Pronome demonstrativo", "Substantivo"],
+    "resposta": "Pronome pessoal do caso reto",
+    "explicacao": "'Nós' é um pronome pessoal que funciona como sujeito da oração.",
+    "ajuda": "👉 Pronome pessoal do caso reto: funciona como sujeito. Ex: 'Eu estudei.'\n👉 Pronome possessivo: indica posse.\n👉 Pronome demonstrativo: indica posição.\n👉 Substantivo: nomeia seres ou coisas."
+  },
+  {
+    "id": 29,
+    "pergunta": "Na frase: 'O menino, que estava cansado, dormiu cedo', que tipo de oração é 'que estava cansado'?",
+    "opcoes": ["Oração subordinada adjetiva explicativa", "Oração subordinada adjetiva restritiva", "Oração coordenada", "Oração subordinada causal"],
+    "resposta": "Oração subordinada adjetiva explicativa",
+    "explicacao": "A oração entre vírgulas explica uma característica adicional do sujeito, sendo explicativa.",
+    "ajuda": "👉 Explicativa: acrescenta informação, separada por vírgulas.\n👉 Restritiva: limita o sentido, sem vírgulas.\n👉 Coordenada: liga orações independentes.\n👉 Causal: indica causa."
+  },
+  {
+    "id": 30,
+    "pergunta": "Qual a função sintática do termo 'muito' na frase: 'Ela é muito inteligente'?",
+    "opcoes": ["Adjunto adverbial de intensidade", "Adjunto adnominal", "Complemento direto", "Predicativo do sujeito"],
+    "resposta": "Adjunto adverbial de intensidade",
+    "explicacao": "'Muito' intensifica o adjetivo 'inteligente', funcionando como adjunto adverbial de intensidade.",
+    "ajuda": "👉 Adjunto adverbial: modifica verbo, adjetivo ou advérbio. Ex: 'Corre muito rápido.'\n👉 Adjunto adnominal: modifica nome.\n👉 Complemento direto: objeto da ação.\n👉 Predicativo do sujeito: atribui qualidade ao sujeito."
+  },
+  {
+    "id": 31,
+    "pergunta": "Qual é a classe de palavra de 'nunca' na frase: 'Ele nunca mente'?",
+    "opcoes": ["Advérbio de negação", "Advérbio de intensidade", "Conjunção", "Pronome"],
+    "resposta": "Advérbio de negação",
+    "explicacao": "'Nunca' nega a ação do verbo, funcionando como advérbio de negação.",
+    "ajuda": "👉 Advérbio de negação: nega a ação. Ex: 'Jamais saio cedo.'\n👉 Advérbio de intensidade: intensifica.\n👉 Conjunção: liga orações.\n👉 Pronome: substitui o nome."
+  },
+  {
+    "id": 32,
+    "pergunta": "Na frase: 'Os alunos leram e comentaram o texto', que tipo de oração é 'comentaram o texto'?",
+    "opcoes": ["Oração coordenada copulativa", "Oração coordenada adversativa", "Oração subordinada", "Oração coordenada conclusiva"],
+    "resposta": "Oração coordenada copulativa",
+    "explicacao": "As orações são ligadas pela conjunção implícita (e), indicando adição, sendo coordenadas copulativas.",
+    "ajuda": "👉 Coordenada copulativa: adição. Ex: 'Ele correu e venceu.'\n👉 Adversativa: oposição.\n👉 Subordinada: dependente.\n👉 Conclusiva: conclusão."
+  },
+  {
+    "id": 33,
+    "pergunta": "Qual é a função sintática de 'com alegria' na frase: 'Ele respondeu com alegria'?",
+    "opcoes": ["Adjunto adverbial de modo", "Adjunto adverbial de causa", "Complemento direto", "Complemento indireto"],
+    "resposta": "Adjunto adverbial de modo",
+    "explicacao": "'Com alegria' indica a maneira como a ação foi realizada, funcionando como adjunto adverbial de modo.",
+    "ajuda": "👉 Adjunto adverbial de modo: indica como se faz algo. Ex: 'Falou calmamente.'\n👉 Adjunto adverbial de causa: indica motivo.\n👉 Complemento direto: objeto da ação.\n👉 Complemento indireto: objeto introduzido por preposição."
+  },
+  {
+    "id": 34,
+    "pergunta": "Qual é a classe de palavra de 'bem' na frase: 'Ele fala bem'?",
+    "opcoes": ["Advérbio de modo", "Adjetivo", "Substantivo", "Conjunção"],
+    "resposta": "Advérbio de modo",
+    "explicacao": "'Bem' modifica o verbo 'fala', indicando a maneira da ação, funcionando como advérbio de modo.",
+    "ajuda": "👉 Advérbio de modo: indica a maneira. Ex: 'Ela canta melhor.'\n👉 Adjetivo: qualifica nome.\n👉 Substantivo: nome.\n👉 Conjunção: liga orações."
+  },
+  {
+    "id": 35,
+    "pergunta": "Na frase: 'Embora estivesse cansado, continuou a trabalhar', que tipo de oração é 'Embora estivesse cansado'?",
+    "opcoes": ["Oração subordinada concessiva", "Oração subordinada causal", "Oração coordenada adversativa", "Oração subordinada temporal"],
+    "resposta": "Oração subordinada concessiva",
+    "explicacao": "'Embora estivesse cansado' indica uma concessão, uma ideia contrária à oração principal.",
+    "ajuda": "👉 Concessiva: ideia contrária. Ex: 'Apesar da chuva, saiu.'\n👉 Causal: causa.\n👉 Adversativa: oposição.\n👉 Temporal: tempo."
+  },
+  {
+    "id": 36,
+    "pergunta": "Qual é a função sintática de 'de Maria' na frase: 'O carro de Maria é novo'?",
+    "opcoes": ["Adjunto adnominal", "Complemento direto", "Complemento indireto", "Predicativo do sujeito"],
+    "resposta": "Adjunto adnominal",
+    "explicacao": "'De Maria' caracteriza o substantivo 'carro', funcionando como adjunto adnominal.",
+    "ajuda": "👉 Adjunto adnominal: modifica nome. Ex: 'livro do aluno'\n👉 Complemento direto: objeto da ação.\n👉 Complemento indireto: introduzido por preposição.\n👉 Predicativo do sujeito: atribui qualidade ao sujeito."
+  },
+  {
+    "id": 37,
+    "pergunta": "Qual a função sintática do termo 'ontem' na frase: 'Chegou ontem'?",
+    "opcoes": ["Adjunto adverbial de tempo", "Adjunto adverbial de lugar", "Complemento direto", "Sujeito"],
+    "resposta": "Adjunto adverbial de tempo",
+    "explicacao": "'Ontem' indica o tempo da ação, funcionando como adjunto adverbial de tempo.",
+    "ajuda": "👉 Adjunto adverbial de tempo: indica quando. Ex: 'Hoje estudo.'\n👉 Adjunto adverbial de lugar: indica onde.\n👉 Complemento direto: objeto da ação.\n👉 Sujeito: quem pratica a ação."
+  },
+  {
+    "id": 38,
+    "pergunta": "Na frase: 'Ela tem muitos amigos', qual é a função sintática de 'muitos'?",
+    "opcoes": ["Adjunto adnominal", "Complemento direto", "Adjunto adverbial", "Predicativo do sujeito"],
+    "resposta": "Adjunto adnominal",
+    "explicacao": "'Muitos' caracteriza o substantivo 'amigos', funcionando como adjunto adnominal.",
+    "ajuda": "👉 Adjunto adnominal: modifica nome. Ex: 'grande casa'\n👉 Complemento direto: objeto da ação.\n👉 Adjunto adverbial: modifica verbo ou adjetivo.\n👉 Predicativo do sujeito: atribui qualidade ao sujeito."
+  },
+  {
+    "id": 39,
+    "pergunta": "Qual a função sintática do termo 'muito' na frase: 'Ele fala muito'?",
+    "opcoes": ["Adjunto adverbial de intensidade", "Complemento direto", "Adjunto adnominal", "Sujeito"],
+    "resposta": "Adjunto adverbial de intensidade",
+    "explicacao": "'Muito' intensifica o verbo 'fala', funcionando como adjunto adverbial de intensidade.",
+    "ajuda": "👉 Adjunto adverbial: modifica verbo, adjetivo ou advérbio.\n👉 Complemento direto: objeto da ação.\n👉 Adjunto adnominal: modifica nome.\n👉 Sujeito: quem pratica a ação."
+  },
+  {
+    "id": 40,
+    "pergunta": "Na frase: 'O livro que comprei é interessante', que tipo de oração é 'que comprei'?",
+    "opcoes": ["Oração subordinada adjetiva restritiva", "Oração subordinada adjetiva explicativa", "Oração coordenada", "Oração subordinada causal"],
+    "resposta": "Oração subordinada adjetiva restritiva",
+    "explicacao": "'Que comprei' limita o sentido do substantivo 'livro', funcionando como oração subordinada adjetiva restritiva.",
+    "ajuda": "👉 Restritiva: limita o significado. Ex: 'O carro que comprei é novo.'\n👉 Explicativa: acrescenta informação.\n👉 Coordenada: liga orações independentes.\n👉 Causal: indica causa."
+  },
+  {
+    "id": 41,
+    "pergunta": "Qual a classe de palavra de 'rapidamente' na frase: 'Ele respondeu rapidamente'?",
+    "opcoes": ["Advérbio de modo", "Adjetivo", "Substantivo", "Pronome"],
+    "resposta": "Advérbio de modo",
+    "explicacao": "'Rapidamente' indica a maneira da ação, funcionando como advérbio de modo.",
+    "ajuda": "👉 Advérbio de modo: indica como se faz algo. Ex: 'Ela falou calmamente.'\n👉 Adjetivo: qualifica nome.\n👉 Substantivo: nome.\n👉 Pronome: substitui o nome."
+  },
+  {
+    "id": 42,
+    "pergunta": "Qual é a função sintática do termo 'na escola' na frase: 'Estudamos na escola'?",
+    "opcoes": ["Adjunto adverbial de lugar", "Adjunto adverbial de tempo", "Complemento direto", "Complemento indireto"],
+    "resposta": "Adjunto adverbial de lugar",
+    "explicacao": "'Na escola' indica o local onde a ação ocorre, funcionando como adjunto adverbial de lugar.",
+    "ajuda": "👉 Adjunto adverbial de lugar: indica onde. Ex: 'Fui ao parque.'\n👉 Adjunto adverbial de tempo: indica quando.\n👉 Complemento direto: objeto da ação.\n👉 Complemento indireto: introduzido por preposição."
+  },
+  {
+    "id": 43,
+    "pergunta": "Na frase: 'Ele não gosta de chocolate', qual é a função sintática de 'de chocolate'?",
+    "opcoes": ["Complemento verbal", "Complemento direto", "Adjunto adnominal", "Sujeito"],
+    "resposta": "Complemento verbal",
+    "explicacao": "'De chocolate' completa o sentido do verbo 'gosta', funcionando como complemento verbal.",
+    "ajuda": "👉 Complemento verbal: completa sentido de verbos transitivos. Ex: 'Precisa de ajuda.'\n👉 Complemento direto: objeto da ação.\n👉 Adjunto adnominal: modifica nome.\n👉 Sujeito: agente da ação."
+  },
+  {
+    "id": 44,
+    "pergunta": "Qual a função sintática de 'com os amigos' na frase: 'Fui ao cinema com os amigos'?",
+    "opcoes": ["Adjunto adverbial de companhia", "Adjunto adverbial de modo", "Complemento direto", "Complemento indireto"],
+    "resposta": "Adjunto adverbial de companhia",
+    "explicacao": "'Com os amigos' indica companhia na ação, funcionando como adjunto adverbial de companhia.",
+    "ajuda": "👉 Adjunto adverbial de companhia: indica companhia. Ex: 'Fui com ela.'\n👉 Adjunto adverbial de modo: indica modo.\n👉 Complemento direto: objeto da ação.\n👉 Complemento indireto: objeto introduzido por preposição."
+  },
+  {
+    "id": 45,
+    "pergunta": "Na frase: 'Ele é mais alto do que eu', qual é a figura de comparação usada?",
+    "opcoes": ["Comparação de igualdade", "Comparação de superioridade", "Metáfora", "Hipérbole"],
+    "resposta": "Comparação de superioridade",
+    "explicacao": "'Mais alto do que' expressa superioridade entre os elementos comparados.",
+    "ajuda": "👉 Comparação de igualdade: 'tão alto quanto'\n👉 Comparação de superioridade: 'mais alto que'\n👉 Metáfora: comparação implícita.\n👉 Hipérbole: exagero."
+  },
+  {
+    "id": 46,
+    "pergunta": "Qual é a função sintática de 'para o professor' na frase: 'Enviei o trabalho para o professor'?",
+    "opcoes": ["Complemento indireto", "Complemento direto", "Adjunto adverbial", "Predicativo do sujeito"],
+    "resposta": "Complemento indireto",
+    "explicacao": "'Para o professor' é o destinatário da ação, funcionando como complemento indireto.",
+    "ajuda": "👉 Complemento indireto: objeto introduzido por preposição. Ex: 'Dei o livro ao amigo.'\n👉 Complemento direto: objeto da ação.\n👉 Adjunto adverbial: indica circunstância.\n👉 Predicativo do sujeito: qualidade do sujeito."
+  },
+  {
+    "id": 47,
+    "pergunta": "Na frase: 'O cão latiu alto durante a noite', qual é o adjunto adverbial presente?",
+    "opcoes": ["Durante a noite", "O cão", "Alto", "Latiu"],
+    "resposta": "Durante a noite",
+    "explicacao": "'Durante a noite' indica o tempo da ação, funcionando como adjunto adverbial de tempo.",
+    "ajuda": "👉 Adjunto adverbial de tempo: indica quando. Ex: 'Hoje estudo.'\n👉 Sujeito: quem pratica a ação.\n👉 Adjunto adverbial de modo: indica como.\n👉 Verbo: ação."
+  },
+  {
+    "id": 48,
+    "pergunta": "Qual a função sintática do termo 'da professora' na frase: 'A mochila da professora está na sala'?",
+    "opcoes": ["Adjunto adnominal", "Complemento direto", "Complemento indireto", "Predicativo do sujeito"],
+    "resposta": "Adjunto adnominal",
+    "explicacao": "'Da professora' caracteriza o substantivo 'mochila', funcionando como adjunto adnominal.",
+    "ajuda": "👉 Adjunto adnominal: modifica nome. Ex: 'Livro do aluno'\n👉 Complemento direto: objeto da ação.\n👉 Complemento indireto: introduzido por preposição.\n👉 Predicativo do sujeito: qualidade atribuída ao sujeito."
+  },
+  {
+    "id": 49,
+    "pergunta": "Na frase: 'Se ele vier, faremos a festa', que tipo de oração é 'Se ele vier'?",
+    "opcoes": ["Oração subordinada condicional", "Oração subordinada causal", "Oração coordenada adversativa", "Oração subordinada temporal"],
+    "resposta": "Oração subordinada condicional",
+    "explicacao": "'Se ele vier' expressa a condição para que a ação principal aconteça.",
+    "ajuda": "👉 Condicional: expressa condição.\n👉 Causal: causa.\n👉 Adversativa: oposição.\n👉 Temporal: tempo."
+  },
+  {
+    "id": 50,
+    "pergunta": "Qual é a função sintática de 'em casa' na frase: 'Ficou em casa o dia todo'?",
+    "opcoes": ["Adjunto adverbial de lugar", "Adjunto adverbial de tempo", "Complemento direto", "Sujeito"],
+    "resposta": "Adjunto adverbial de lugar",
+    "explicacao": "'Em casa' indica o local da ação, funcionando como adjunto adverbial de lugar.",
+    "ajuda": "👉 Adjunto adverbial de lugar: indica onde.\n👉 Adjunto adverbial de tempo: indica quando.\n👉 Complemento direto: objeto da ação.\n👉 Sujeito: quem pratica a ação."
+  }
+]
+
+  
+
+
+  
